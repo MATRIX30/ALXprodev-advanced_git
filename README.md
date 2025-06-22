@@ -1,1 +1,1 @@
-Login Feature Coming soon
+Login Feature Coming soon  data requirements: email, firstName, lastName, profilePic]
